@@ -1,12 +1,9 @@
-# Quark32
-32x Textures for Quark. https://minecraft.curseforge.com/projects/quark
 *=TODO
 P=partial patch
-
-ITEMS
+~~~~~~~~~~~~~~
+~~~~ITEMS~~~~~~~
 Complete!
-
-BLOCKS
+~~~~BLOCKS~~~~~~
 /Chests
 *:Acacia
 *:Acacia_double
@@ -40,8 +37,7 @@ BLOCKS
 *:trapdoor_dark_oak
 *:trapdoor_jungle
 *:trapdoor_spruce
-
-ENTITY
+~~~~ENTITY~~~~~~
 *:ashen_overlay
 P:dweller-clothes not ripped
 *:pirate_hat
@@ -51,11 +47,9 @@ P:dweller-clothes not ripped
 *:banner_sword
 *:banner_shield
 *:banner_dragon
-EMOTES
-
+~~~~EMOTES~~~~~~
 *:All
-
-MISC
+~~~~MISC~~~~~~
 *:autojump_on
 *:autojump_off
 *:potions
